@@ -21,3 +21,15 @@ Solutions are organized by difficulty level and problem name. Each problem folde
 To build strong foundations in data structures and algorithms, write clean and memory-efficient code, and maintain a consistent coding habit. 
 
 Feel free to explore the code, and suggestions or alternative solutions are always welcome!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/abdulkadirtoklu4/LeetCode-Solutions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/abdulkadirtoklu4/LeetCode-Solutions/tree/master/0050-powx-n) |
+<!---LeetCode Topics End-->
