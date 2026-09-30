@@ -32,4 +32,16 @@ Feel free to explore the code, and suggestions or alternative solutions are alwa
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/abdulkadirtoklu4/LeetCode-Solutions/tree/master/0050-powx-n) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abdulkadirtoklu4/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abdulkadirtoklu4/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abdulkadirtoklu4/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
