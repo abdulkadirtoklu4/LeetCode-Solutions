@@ -35,6 +35,7 @@ Feel free to explore the code, and suggestions or alternative solutions are alwa
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abdulkadirtoklu4/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/abdulkadirtoklu4/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/abdulkadirtoklu4/LeetCode-Solutions/tree/master/0027-remove-element) |
 ## String
@@ -49,4 +50,8 @@ Feel free to explore the code, and suggestions or alternative solutions are alwa
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/abdulkadirtoklu4/LeetCode-Solutions/tree/master/0027-remove-element) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/abdulkadirtoklu4/LeetCode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
