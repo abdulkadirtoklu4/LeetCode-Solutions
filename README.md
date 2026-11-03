@@ -28,6 +28,7 @@ Feel free to explore the code, and suggestions or alternative solutions are alwa
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/abdulkadirtoklu4/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abdulkadirtoklu4/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Feel free to explore the code, and suggestions or alternative solutions are alwa
 | [0001-two-sum](https://github.com/abdulkadirtoklu4/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/abdulkadirtoklu4/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/abdulkadirtoklu4/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abdulkadirtoklu4/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
